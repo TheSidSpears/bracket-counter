@@ -1,0 +1,14 @@
+{
+  "name": "sidspears/bracket-counter",
+  "description": "Bracket counter",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sid Spears",
+      "email": "thesidspears@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
